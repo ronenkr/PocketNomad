@@ -1,7 +1,7 @@
 # Pocket Nomad (ESP32‑S3 media hub)
 
 This project is a modification of https://github.com/Jstudner/jcorp-nomad/ and 
-adaptet to Pocket-Dongle-S3 from aliexpress 
+adapted to Pocket-Dongle-S3 from aliexpress 
 see my other repo (https://github.com/ronenkr/Pocket-Dongle-S3)
 
 An ESP32‑S3 powered, SD‑card based portable media hub with a tiny ST7789 display and LVGL UI. It hosts a Wi‑Fi access point with a captive portal, streams videos/music/books directly from the SD card (HTTP range requests), exposes an OPDS feed for ebooks, includes a simple file manager/uploader, RGB lighting control, and a one‑button USB Mass‑Storage mode to mount the SD card on your computer.
