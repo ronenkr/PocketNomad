@@ -20,6 +20,7 @@ ST7789 pins (see `Display_ST7789.h`):
 - MOSI 11, SCLK 10, DC 13, RST 14, CS not used (−1)
 
 Open case or fan is strongly suggested!
+
 Supplied are 2 STL files for front and back made for a slim 20x20x6 fan
 
 ## Features
